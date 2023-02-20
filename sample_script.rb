@@ -1,2 +1,2 @@
-print "Hello Ruby!\n"
-print "Goodbye Ruby!\n"
+print "Hello Jenrick!\n"
+print "Goodbye Jenrick!\n"
